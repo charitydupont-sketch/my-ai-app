@@ -1,0 +1,8 @@
+{
+  "name": "Copy of 2/3 Charity Dupont - Silas App  v3",
+  "description": "A simulation app that transforms your phone interface into different operating systems and eras, from modern Android to retro Flip Phones.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
